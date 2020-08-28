@@ -5,5 +5,5 @@
 - 👯 I’m looking to collaborate on nothing. 
 - 💬 Ask me about how awesome Javascript is.
 - 📫 How to reach me: just holler.
-- 😄 Pronouns: No, I don't have any strong feeling about nouns, I'm not Antinouns either.
-- ⚡ Fun fact: I don't do much on public Github becuase I don't get paid for it.
+- 😄 Pronouns: No, I don't have any strong feelings about nouns, I'm not Antinouns either.
+- ⚡ Fun fact: I don't do much on public Github because I don't get paid for it.
